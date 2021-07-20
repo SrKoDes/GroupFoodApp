@@ -1,0 +1,3 @@
+Feature to add to the food app    
+
+A calcuator to calcuate how many calories you should eat to lose or keep your weight. 
