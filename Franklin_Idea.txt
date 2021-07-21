@@ -1,0 +1,5 @@
+Payment/Billing Feature. 
+This app will offer a premium subscription option that leverages its advanced technologies and tailors them to the individual. 
+Each user would need a profile and health details. 
+The inclusion of a subscription option requires us to develop a billing/payment service and a user profile service.
+
