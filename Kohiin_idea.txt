@@ -1,0 +1,7 @@
+SeeFood, not to be confused with Seafood. An app that recognizes food based on its appearance.
+
+Recipe premium microservice.
+
+GPS for increased recognition capabilities as well as geotagging/recipe discovery.
+
+Data mining service to steal our user’s data.
